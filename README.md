@@ -9,4 +9,4 @@
 [![ETL Project_page-0009](https://user-images.githubusercontent.com/110159876/195978154-888b7d75-0f9c-4c93-afc6-db21e2a3f42f.jpg)]
 [![ETL Project_page-0010](https://user-images.githubusercontent.com/110159876/195978155-d024349b-8933-4435-879f-148d79445c0a.jpg)]
 [![ETL Project_page-0011](https://user-images.githubusercontent.com/110159876/195978156-3282aaca-e02d-4450-a92e-9ff46e669569.jpg)](https://app.powerbi.com/view?r=eyJrIjoiOGI3ODk3ODAtYWViMC00ODgzLWE1MWMtOWY4MDIzZGNlMzRlIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D)
-[![ETL Project_page-0012](https://user-images.githubusercontent.com/110159876/195978157-ecdbde61-df43-4fc2-a7f7-0f0d81e82637.jpg)](https://github.com/isa96/etl_project/blob/main/results/transaction_forecast.ipynb)
+[![ETL Project_page-0012](https://user-images.githubusercontent.com/110159876/195978157-ecdbde61-df43-4fc2-a7f7-0f0d81e82637.jpg)](https://github.com/isa96/etl_project/results/transaction_forecast.ipynb)
